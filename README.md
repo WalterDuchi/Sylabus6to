@@ -1,4 +1,4 @@
-#Sylabus 6to Semestre
+# Sylabus 6to Semestre
 ## ADMINISTRACIÓN DE BASES DE DATOS
   - 1.1. Administración de Base de Datos Relacional
     - 1.1.1. Arquitectura de una Base de Datos Relacional
