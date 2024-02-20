@@ -1,5 +1,5 @@
 # Sylabus 6to Semestre
-## ADMINISTRACIÓN DE BASES DE DATOS
+## BASE DE DATOS AVANZADO
   - 1.1. Administración de Base de Datos Relacional
     - 1.1.1. Arquitectura de una Base de Datos Relacional
   - 1.2. Archivos de Bases de Datos
