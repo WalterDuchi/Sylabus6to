@@ -1,4 +1,5 @@
-# ADMINISTRACIÓN DE BASES DE DATOS
+#Sylabus 6to Semestre
+## ADMINISTRACIÓN DE BASES DE DATOS
   - 1.1. Administración de Base de Datos Relacional
     - 1.1.1. Arquitectura de una Base de Datos Relacional
   - 1.2. Archivos de Bases de Datos
@@ -17,7 +18,7 @@
   - 1.5. Importación y Exportación de Datos
     - 1.5.1. Importación y exportación básica de Datos
 
-# CONSTRUCCIÓN DE SOFTWARE
+## CONSTRUCCIÓN DE SOFTWARE
   - 1.1. Principios básicos del desarrollo de software
     - 1.1.1. Principios de construcción y cambio de software
     - 1.1.2. Principios SOLID
@@ -64,7 +65,7 @@
     - 3.1.6. Protocolos y normas de documentación técnica
     - 3.1.7. Herramientas de software para la gestión de la documentación de código fuente
 
-# DESARROLLO DE APLICACIONES WEB
+## DESARROLLO DE APLICACIONES WEB
   - 1.1. El internet, la web (nacimiento y crecimiento) y la evolución de las aplicaciones Web (páginas web, sitios web, aplicaciones web, servicios web, web 2.0, web 3.0)
   - 1.2. Protocolo http (estructura de los mensajes, cabeceras de petición y respuesta, códigos de estado, tipos de contenidos), URI, URL y nombres de dominio
   - 1.3. El modelo cliente/servidor
@@ -98,7 +99,7 @@
   - 5.3. Formatos de Intercambio de datos: XML y JSON
   - 5.4. MVC y AJAX
 
-# DISEÑO DE EXPERIENCIA DE USUARIO
+## DISEÑO DE EXPERIENCIA DE USUARIO
   - 1.1. Introducción a la Experiencia de Usuario
   - 1.2. La experiencia de usuario como campo profesional.
   - 1.3. La relación entre experiencia de usuario, usabilidad y diseño centrado del usuario.
@@ -129,7 +130,7 @@
     - 3.3.4. Informe de usabilidad.
   - 3.4. Métricas, cálculos y evaluaciones de UX
 
-# MARCO LEGAL DE LA PROFESIÓN
+## MARCO LEGAL DE LA PROFESIÓN
   - 1. Concepto de Derecho constitucional
     - 1.1. Principios que rigen el Derecho Constitucional
     - 1.2. Constitución de la República del Ecuador.
