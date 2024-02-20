@@ -1,1 +1,165 @@
-# Hola estimad@, que hace usted por aqui?
+# ADMINISTRACIÓN DE BASES DE DATOS
+  - 1.1. Administración de Base de Datos Relacional
+    - 1.1.1. Arquitectura de una Base de Datos Relacional
+  - 1.2. Archivos de Bases de Datos
+    - 1.2.1. Tipos de Archivos de una Base de Datos
+    - 1.2.2. Grupos de Archivos (FileGroups)
+    - 1.2.3. Manejo de Instancias
+    - 1.2.4. Gestión de Espacios de Tabla (Tablespaces), creación y manejo
+  - 1.3. Seguridad de Bases de Datos
+    - 1.3.1. Modelos de autentificación
+    - 1.3.2. Gestión de Usuarios
+    - 1.3.3. Roles y privilegios
+    - 1.3.4. Introducción a Encriptación de campos
+  - 1.4. Respaldo y recuperación de Bases de Datos
+    - 1.4.1. Respaldo y recuperación de Instancias
+    - 1.4.2. Respaldo y recuperación de Objetos
+  - 1.5. Importación y Exportación de Datos
+    - 1.5.1. Importación y exportación básica de Datos
+
+# CONSTRUCCIÓN DE SOFTWARE
+  - 1.1. Principios básicos del desarrollo de software
+    - 1.1.1. Principios de construcción y cambio de software
+    - 1.1.2. Principios SOLID
+  - 1.2. Refactorización del código
+    - 1.2.1. Conceptos básicos
+    - 1.2.2. ¿Cuándo refactorizar?
+    - 1.2.3. Técnicas de refactorización
+    - 1.2.4. Code smells
+  - 1.3. Detección de errores
+    - 1.3.1. Pruebas de software: revisión de tipos de pruebas
+    - 1.3.2. Pruebas unitarias
+    - 1.3.3. Depuración del software: importancia, buenas prácticas, herramientas
+    - 1.3.4. Plan de pruebas y documentación de pruebas
+  - 1.4. Tolerancia a fallos y tratamiento de excepciones
+    - 1.4.1. Seguridad, fiabilidad y confiabilidad
+    - 1.4.2. Confiabilidad del software
+    - 1.4.3. Programación confiable
+    - 1.4.4. Prevención de fallos
+    - 1.4.5. Manejo de excepciones
+    - 1.4.6. Tolerancia a fallos
+    - 1.4.7. Arquitecturas tolerantes a fallos
+  - 2.1. Mantenimiento de software
+    - 2.1.1. Soportabilidad del software
+    - 2.1.2. Reingeniería de procesos de empresa
+    - 2.1.3. Procesos empresariales
+    - 2.1.4. Un modelo RPE
+    - 2.1.5. Reingeniería de software
+    - 2.1.6. Un modelo de proceso de reingeniería de software
+  - 2.2. Modernización de software (reingeniería)
+    - 2.2.1. Actividades
+    - 2.2.2. Ingeniería inversa
+    - 2.2.3. Reestructuración de código
+    - 2.2.4. Reestructuración de datos
+    - 2.2.5. Ingeniería hacia adelante
+    - 2.2.6. Ingeniería hacia adelante para arquitecturas cliente-servidor
+    - 2.2.7. Ingeniería hacia adelante para arquitecturas orientadas a objetos
+    - 2.2.8. Economía de la reingeniería
+  - 3.1. Implementación y documentación del software
+    - 3.1.1. Ingeniería de Requerimientos y el diseño en el proceso de desarrollo de software
+    - 3.1.2. Prototipos
+    - 3.1.3. Implementación del software: Tecnologías, buenas prácticas, documentación
+    - 3.1.4. Control de cambios
+    - 3.1.5. Confección de documentación técnica y manuales
+    - 3.1.6. Protocolos y normas de documentación técnica
+    - 3.1.7. Herramientas de software para la gestión de la documentación de código fuente
+
+# DESARROLLO DE APLICACIONES WEB
+  - 1.1. El internet, la web (nacimiento y crecimiento) y la evolución de las aplicaciones Web (páginas web, sitios web, aplicaciones web, servicios web, web 2.0, web 3.0)
+  - 1.2. Protocolo http (estructura de los mensajes, cabeceras de petición y respuesta, códigos de estado, tipos de contenidos), URI, URL y nombres de dominio
+  - 1.3. El modelo cliente/servidor
+  - 1.4. Servidores y navegadores web
+  - 1.5. Tendencias y tecnologías en el desarrollo de aplicaciones Web.
+  - 2.1. HTML: estructura y sintaxis.
+  - 2.2. HTML: Elementos estructurales (html, head, body, main, nav, section, etc.)
+  - 2.3. HTML: Elementos de contenido: texto, imágenes, listas, tablas, formularios, etc.)
+  - 2.4. Hojas de estilos en cascada (definición y tipos: externa, interna, en línea)
+  - 2.5. CSS: Selectores y jerarquía (elemento, clase, id, atributo, contextual, pseudo clases, etc.)
+  - 2.6. Principales propiedades de estilos
+  - 2.7. Modelo de caja CSS
+  - 2.8. Maquetación Web
+  - 3.1. JavaScript (definición y cómo incluirlo)
+  - 3.2. Modelo Objeto Documento
+  - 3.3. Manipulación de elementos con DOM, métodos DOM comunes
+  - 3.4. Trabajando con eventos
+  - 3.5. Validación de formularios
+  - 4.1. Lenguajes de programación de lado del servidor
+  - 4.2. Métodos de envío de datos: GET, POST
+  - 4.3. Manejo de estado: cookies y sesiones)
+  - 4.4. Interacción con Base de Datos
+  - 4.5. Estructura de aplicación MVC
+    - 4.5.1. Programando el modelo
+    - 4.5.2. Programando el controlador
+    - 4.5.3. Programando las vistas
+    - 4.5.4. Proceso de ejecución de una Aplicación MVC
+  - 4.6. Aplicación CRUD en MVC
+  - 5.1. Comunicaciones asíncronas con AJAX.
+  - 5.2. Inyección y actualización de contenido
+  - 5.3. Formatos de Intercambio de datos: XML y JSON
+  - 5.4. MVC y AJAX
+
+# DISEÑO DE EXPERIENCIA DE USUARIO
+  - 1.1. Introducción a la Experiencia de Usuario
+  - 1.2. La experiencia de usuario como campo profesional.
+  - 1.3. La relación entre experiencia de usuario, usabilidad y diseño centrado del usuario.
+  - 1.4. Disciplinas que integran el campo de experiencia de usuario.
+  - 1.5. Etapas de la experiencia a usuarios.
+  - 1.6. Metodologías usadas en el diseño de experiencias de usuario.
+  - 1.7. Modelo Cognitivo / Modelo Mental
+  - 2.1. Definiciones generales de Arquitectura de información y diseño de interacción.
+  - 2.2. Métodos de indagación: investigación de usuarios y requisitos de usuario, definición de persona.
+  - 2.3. Diagramación y wireframes.
+  - 2.4. Storyboard
+  - 2.5. Tableros de Humor
+  - 2.6. Evaluación Heurística
+  - 2.7. Técnica de Card Sorting
+  - 2.8. Prototipado Interactivo, prototipo de interfaces
+  - 3.1. Planificación de pruebas
+    - 3.1.1. Guión para pruebas
+    - 3.1.2. Reclutamiento de usuarios
+  - 3.2. Ejecución de pruebas con usuarios
+    - 3.2.1. Pruebas con usuarios
+    - 3.2.2. Pruebas presenciales
+    - 3.2.3. Pruebas remotas
+    - 3.2.4. Moderación de Pruebas.
+  - 3.3. Análisis con prueba de usuarios
+    - 3.3.1. Medición de eficiencia y eficacia.
+    - 3.3.2. Medir la satisfacción.
+    - 3.3.3. Análisis y presentación de resultados.
+    - 3.3.4. Informe de usabilidad.
+  - 3.4. Métricas, cálculos y evaluaciones de UX
+
+# MARCO LEGAL DE LA PROFESIÓN
+  - 1. Concepto de Derecho constitucional
+    - 1.1. Principios que rigen el Derecho Constitucional
+    - 1.2. Constitución de la República del Ecuador.
+    - 1.3. Orden jerárquico de las leyes.
+    - 1.4. Concepto de Derecho Civil.-
+    - 1.5. Concepto de Contrato y Partes de un Contrato.
+    - 1.6. Tipos de contratos.
+    - 1.7. El Contrato Informático.
+    - 1.8. Análisis e interpretación de los siguientes artículos del Código Civil: (del Art. 1453 al 1459) (del 1461 al 1463).
+  - 2. Definición e introducción a la Legislación Informática.
+    - 2.1. El derecho informático, Origen, Definición, Clasificación.
+    - 2.2. Deontología y Legislación Informática.
+    - 2.3. Los Delitos Informáticos.- Características.- Los delitos informáticos en Ecuador.-
+    - 2.4. Elementos comunes: Sujetos del delito informático.
+    - 2.5. El fraude: Definición, tipos.
+    - 2.6. Clasificación de Delitos informáticos según Parker y Klaus. Análisis e interpretación de los art.
+  - 3. El Comercio electrónico
+    - 3.1. Objetivos y Principios generales.
+    - 3.2. Certificados de firma electrónica
+    - 3.3. Entidades de certificación de información.
+    - 3.4. Servicios electrónicos
+    - 3.5. La contratación electrónica y telemática,
+    - 3.6. Los derechos de los usuarios e instrumentos públicos.
+    - 3.7. Análisis e interpretación de la Ley de comercio electrónico, firmas electrónicas y mensajes de datos.
+  - 4. La Propiedad Intelectual.-
+    - 4.1. Definición y Ventajas.
+    - 4.2. Patente: Definición, características, proceso de adquisición y tipos de protección de una patente.
+    - 4.3. Marca.- Derechos. Tipos, Registro y alcance de una marca.
+    - 4.4. El Diseño Industrial.- concepto, Protección del D.I., Alcance que tienen.
+    - 4.5. Indicación Geográfica.
+    - 4.6. Denominación de origen, Diferencias.
+    - 4.7. El derecho de autor y su clasificación.
+    - 4.8. Que es la Organización Mundial de la Propiedad Intelectual (OMPI)
